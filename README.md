@@ -41,6 +41,16 @@ The datasets used in this project were from Kaggle: https://www.kaggle.com/datas
 
 - Identified companies with the highest revenue growth and profitability.
 
+## Analysing Datasets
+
+Before tackling the business problem above I first of all cleaned and transformed the 3 datasets in the Project -datasets folder. Here are some of the things I did and why:
+
+- **Resolved Large Dataset file (sp500_stocks.csv)**: This file is over 100mb in size and I initially couldn't push it to github because of the large file size. So I used Git LFS in my local repository to be able to handle the file and was able to seccessfully push it to Github remotely.
+
+**Transformed and cleaned all 3 datasets:**
+
+- fg
+
 ## Future Work
 
 - Continue refining analysis with additional data.
