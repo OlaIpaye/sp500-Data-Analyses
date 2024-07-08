@@ -49,7 +49,16 @@ Before tackling the business problem above I first of all cleaned and transforme
 
 **Transformed and cleaned all 3 datasets:**
 
-- fg
+- On the **sp500_companies.csv** file, I performed various tasks such as giving all the columns more descriptive names using snake_case format, changed data types for the prices columns to fixed decimal number from decimal number for better accuracy of figures, and I deleted some unnecessary columns such as city and state because they were not relevant or important to complete the tasks. (See below screenshots of the tasks listed above)
+
+Before chagning data types for the prices columns:
+
+![alt text](<Images/1. before changing stocks.csv data type to fixed decimal numb.png>)
+
+After:
+![alt text](<Images/1. after changing stocks.csv data type to fixed decimal numb.png>)
+
+- thhhhh
 
 ## Future Work
 
